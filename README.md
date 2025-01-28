@@ -1,3 +1,6 @@
+### 私について
+私は、ただの人です。終わり。
+
 ### Profile Details
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amawa0001&theme=aura)
 
