@@ -1,5 +1,5 @@
 ### 私について
-私は、ただの人です。終わり。
+人間だと思います
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,discordjs,html,java,js,nodejs,php,py" />
